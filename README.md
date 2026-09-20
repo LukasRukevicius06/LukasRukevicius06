@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects for game development and large scale programs
 - 📫 How to reach me; Email: lukas.rukevicius@gmail.com, LinkedIn: linkedin.com/in/lukas-rukevicius-588a90338/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 LukasRukevicius06/LukasRukevicius06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
